@@ -31,4 +31,6 @@ Storing API keys and passwords directly in the code is generally not recommended
 
 This code provides a basic framework for monitoring sensor data and sending alerts.
 
-![Alt text] (../Screenshot 2025-01-27 193439.png)
+![Screenshot 2025-01-27 193439](https://github.com/user-attachments/assets/86cf31de-02e8-41ad-a774-53463c835ab9)
+
+
